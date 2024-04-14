@@ -5,9 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawheit" alt="rawheit" /></a> </p>
 
-- 🌱 I’m currently learning **Everything**
 
+
+- 
+- - 👋 Hi, I’m @rawheit
+- 👀 I’m interested in Web Automation
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on none rn
 - 📫 How to reach me **rawheit@gmail.com**
+
+<!---
+radarzero/radarzero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
