@@ -8,7 +8,7 @@
 
 
 - 
-- - 👋 Hi, I’m @rawheit
+-
 - 👀 I’m interested in Web Automation
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on none rn
