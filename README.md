@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawheit" alt="rawheit" /></a> </p>
 
 
-
-- 
--
 - 👀 I’m interested in Web Automation
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on none rn
